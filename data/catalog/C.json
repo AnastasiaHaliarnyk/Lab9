@@ -1,0 +1,33 @@
+{
+  "catalog_items": [
+    {
+      "id": 1,
+      "name": "Market Maven",
+      "shortname": "C-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, sint.",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Innovation Ignite",
+      "shortname": "C-2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, ratione?",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "name": "Profit Pulse",
+      "shortname": "C-3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, praesentium.",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "Growth Catalyst",
+      "shortname": "C-4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, totam.",
+      "price": 15
+    }
+  ],
+  "category": {"shortname": "C", "name": "Business", "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, totam."}
+}

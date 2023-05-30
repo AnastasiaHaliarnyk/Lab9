@@ -1,0 +1,33 @@
+{
+  "catalog_items": [
+  {
+    "id": 1,
+    "name": "Imagination Adventures",
+    "shortname": "B-1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, sint.",
+    "price": 40
+  },
+  {
+    "id": 2,
+    "name": "Wonderland Wonders",
+    "shortname": "B-2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, ratione?",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "name": "Magical Tales",
+    "shortname": "B-3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, praesentium.",
+    "price": 20
+  },
+  {
+    "id": 4,
+    "name": "Fantastic Friends",
+    "shortname": "B-4",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, totam.",
+    "price": 50
+  }
+],
+  "category": {"shortname": "B", "name": "Kids", "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, praesentium."}
+}

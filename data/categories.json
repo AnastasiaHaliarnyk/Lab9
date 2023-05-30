@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Psychology",
+    "shortname": "T",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, sint.",
+    "url": "data/catalog/T.json"
+  },
+  {
+    "id": 2,
+    "name": "Novel",
+    "shortname": "G",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, ratione?",
+    "url": "data/catalog/G.json"
+  },
+  {
+    "id": 3,
+    "name": "Kids",
+    "shortname": "B",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, praesentium.",
+    "url": "data/catalog/B.json"
+  },
+  {
+    "id": 4,
+    "name": "Business",
+    "shortname": "C",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, totam.",
+    "url": "data/catalog/C.json"
+  }
+]

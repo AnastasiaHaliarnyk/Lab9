@@ -1,0 +1,33 @@
+{
+  "catalog_items": [
+    {
+      "id": 1,
+      "name": "Mind Matters",
+      "shortname": "T-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, sint.",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Psychology Prose",
+      "shortname": "T-2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, ratione?",
+      "price": 30
+    },
+    {
+      "id": 3,
+      "name": "Emotional Equilibrium",
+      "shortname": "T-3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, praesentium.",
+      "price": 10
+    },
+    {
+      "id": 4,
+      "name": "Soul Science",
+      "shortname": "T-4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, totam.",
+      "price": 50
+    }
+  ],
+  "category": {"shortname": "T", "name": "Psychology", "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, sint."}
+}

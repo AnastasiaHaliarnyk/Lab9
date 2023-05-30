@@ -1,0 +1,33 @@
+{
+  "catalog_items": [
+    {
+      "id": 1,
+      "name": "Whispers in Time",
+      "shortname": "G-1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi, sint.",
+      "price": 40
+    },
+    {
+      "id": 2,
+      "name": "Secrets Revealed",
+      "shortname": "G-2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, ratione?",
+      "price": 55
+    },
+    {
+      "id": 3,
+      "name": "Moments of Truth",
+      "shortname": "G-3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, praesentium.",
+      "price": 70
+    },
+    {
+      "id": 4,
+      "name": "Journey's End",
+      "shortname": "G-4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, totam.",
+      "price": 30
+    }
+  ],
+  "category": {"shortname": "G", "name": "Novel", "notes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, ratione?"}
+}
